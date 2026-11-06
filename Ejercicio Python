@@ -1,9 +1,3 @@
-alumno = {
-    "nombre": "Lucia",
-    "edad": 17,
-    "notas": [7, 8, 9]
-}
-
 libro = {
     "titulo": "El SEñor de los Anillos",
     "autor": "J.R.Tolkien",
@@ -11,4 +5,4 @@ libro = {
 }
 
 print (libro)
-print("Numero de datos:")
+print("Numero de datos:", libro)
